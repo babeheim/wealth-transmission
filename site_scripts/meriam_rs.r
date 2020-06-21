@@ -4,11 +4,9 @@ rm(list = ls())
 source("./project_support.r")
 
 data <- read.dta("./input/Meriam_Data.dta")
-data.o <- data
 
 ## Clean Data Following 2009 Paper
 
-data <- data.o
 drop <- which(data[,"id"]=="")
 agef.cleaning <- data[,"age_fa"]
 agef.cleaning[agef.cleaning=="dec."] <- 75

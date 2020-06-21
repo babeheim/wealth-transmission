@@ -1,7 +1,7 @@
 wealth-transmission
 ============
 
-Analysis materials for Borgerhoff Mulder, et al., "Intergenerational Wealth Transmission and the Dynamics of Inequality in Small-Scale Societies" DOI: 10.1126/science.1178336.
+Analysis materials for Borgerhoff Mulder, et al., (2009) "Intergenerational Wealth Transmission and the Dynamics of Inequality in Small-Scale Societies" DOI: 10.1126/science.1178336.
 
 [![License: CC BY-NC-SA 4.0](https://licensebuttons.net/l/by-nc-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 

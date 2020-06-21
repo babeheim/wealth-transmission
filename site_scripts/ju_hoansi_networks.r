@@ -4,12 +4,12 @@ rm(list = ls())
 source("./project_support.r")
 
 data <- read.dta("./input/Weissner_Data.dta")
-data.o <- data
 
 
 ## Clean Data Following 2009 Paper
 
-data <- data.o
+data <- read_csv("ju/'hoa
+
 drop <- which(data[,"age"]<14)
 data <- data[-drop,]
 expect_true(nrow(data) == 26)
